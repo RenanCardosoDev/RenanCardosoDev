@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi! Welcome 👋
 
-<!--
-**RenanCardosoDev/RenanCardosoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning React
+- 📖 I'm a Software Engineering student
+- 💬 Ask me about JavaScript
+- 📫 How to reach me: in/renancardosodev
+- ⚡ Fun fact: I'm also an architect and urban planner
 
-Here are some ideas to get you started:
+### Best Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" widtd="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" widtd="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" widtd="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" widtd="60" />
+</div>
