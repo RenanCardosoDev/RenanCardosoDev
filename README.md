@@ -1,20 +1,25 @@
 
 <img align="center" style="margin-bottom:100px" width=100% src="https://media.licdn.com/dms/image/D4E16AQHaHb6KPNPv_Q/profile-displaybackgroundimage-shrink_350_1400/0/1681858034299?e=1706140800&v=beta&t=AsdOjKUsdxmeKZAWyuRUXRk0C5dg2oVknL303HtuDeM" />
+
+
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I tackle significant challenges using technology.
 
-I have a passion for discovering new things and applying them to create high-quality solutions. Currently, I am studying to become a full-stack developer, mastering the languages JavaScript and Python, with a particular interest in data and software development.</p>&nbsp;
+<p align="center">
+I have a passion for discovering new things and applying them to create high-quality solutions. Currently, I am studying to become a full-stack developer, mastering the languages JavaScript and Python, with a particular interest in data and software development.
+</p>
+
+
+&nbsp;&nbsp;&nbsp;
 
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=renancardosodev&theme=transparent&mode=weekly&border=EBEBEB00" />
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renancardosodev&show_icons=true&border_color=EBEBEB00&theme=transparent&layout=compact" />
  </div>
- 
- &nbsp;
- &nbsp;
 
+ 
+ &nbsp;&nbsp;&nbsp;
 
 
 ## My Skills
@@ -32,19 +37,14 @@ I have a passion for discovering new things and applying them to create high-qua
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Studying in this moment:
-
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 
 #### Databases:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)&nbsp;
 
-#### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
@@ -60,4 +60,4 @@ I have a passion for discovering new things and applying them to create high-qua
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006aff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=435cbc&height=120&section=footer"/>
