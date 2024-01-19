@@ -1,46 +1,42 @@
 
 <img align="center" style="margin-bottom:10px" width=100% src="images/banner.png" />
-<img align="center" style="margin-bottom:20px" width=100% src="images/menu.png" />
+<br><br>
 
 # PORTFOLIO
 
-<p>
+<span style="color: #828282;">  Olá, bem vindo ao meu perfil no GitHub!<br>
+  Te convido a conhecer melhor os meus projetos.</span>
+<!-- <p>
   Olá, bem vindo ao meu perfil no GitHub!<br>
   Te convido a conhecer melhor os meus projetos.
-</p>
-<br>
+</p> -->
+- 🌱 Atualmente, estou aprendendo React
+- 📖 Sou estudante de Engenharia de Software
+- 💬 Pergunte-me sobre JavaScript
+- 📫 Como entrar em contato comigo: in/renancardosodev
+- ⚡ Curiosidade: Também sou arquiteto e urbanista
+<br><br>
 
 <img align="center" style="margin-bottom:20px" width=100% src="images/portfolio.png" />
 
 <p>"Neste momento, estou iniciando uma jornada para me tornar um <strong>desenvolvedor full-stack</strong>, buscando expertise em linguagens como JavaScript e Python.</p>
 
 <p>Minha abordagem abrangente engloba um sólido <strong>conhecimento tanto em front-end quanto em back-end</strong>, possibilitando-me criar experiências envolventes para os usuários e sistemas robustos."</p>
-<br>
 
-<div align="center" style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img width="30px" src="images/stacks.png" alt="Stacks" style="margin-right: 10px;">
-  <span style="font-size: 20px;">Stacks</span>
-</div>
-
+## Stacks
+<span style="color: #828282;">Algumas pilhas que uso no meu dia-a-dia.</span>
 <div>
   <img src="images/stacks2.png" width="350"/>
 </div>
-<br>
 
-<div align="center" style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img width="30px" src="images/stacks.png" alt="Stacks" style="margin-right: 10px;">
-  <span style="font-size: 20px;">Databases</span>
-</div>
+## Databases
+<span style="color: #828282;">Algumas ferramentas de banco de dados que utilizo.</span>
 
 <div>
   <img src="images/data2.png" width="200"/>
 </div>
-<br>
 
-<div align="center" style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img width="30px" src="images/stacks.png" alt="Stacks" style="margin-right: 10px;">
-  <span style="font-size: 20px;">Contact</span>
-</div>
+## Contact
 
 <div> 
   <a href = "mailto:contato.renancardoso.s@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
