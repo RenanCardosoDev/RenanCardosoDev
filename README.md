@@ -5,7 +5,7 @@
 
 # PORTFOLIO
 
-<font color='#828282'>Olá, bem vindo ao meu perfil no GitHub! Te convido a conhecer melhor os meus projetos.</font>
+Olá, bem vindo ao meu perfil no GitHub! Te convido a conhecer melhor os meus projetos.
 
 - 🌱 Atualmente, estou aprendendo React
 - 📖 Sou estudante de Engenharia de Software
@@ -18,17 +18,14 @@
 
 <p>"Neste momento, estou iniciando uma jornada para me tornar um <strong>desenvolvedor full-stack</strong>, buscando expertise em linguagens como JavaScript e Python.</p>
 
-<p>Minha abordagem abrangente engloba um sólido <strong>conhecimento tanto em front-end quanto em back-end</strong>, possibilitando-me criar experiências envolventes para os usuários e sistemas robustos."</p>
+<p>Minha abordagem abrangente engloba um sólido <strong>conhecimento tanto em front-end quanto em back-end</strong>, possibilitando-me criar experiências envolventes para os usuários e sistemas robustos."</p><br>
 
 ## Stacks
-<span style="color: #828282;">Algumas pilhas que uso no meu dia-a-dia.</span>
 <div>
   <img src="images/stacks2.png" width="350"/>
 </div>
 
 ## Databases
-<span style="color: #828282;">Algumas ferramentas de banco de dados que utilizo.</span>
-
 <div>
   <img src="images/data2.png" width="200"/>
 </div>
