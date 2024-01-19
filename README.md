@@ -1,15 +1,12 @@
 
 <img align="center" style="margin-bottom:10px" width=100% src="images/banner.png" />
-<br><br>
+<img align="center" style="margin-bottom:10px" width=100% src="images/menu.png" />
+<br>
 
 # PORTFOLIO
 
-<span style="color: #828282;">  Olá, bem vindo ao meu perfil no GitHub!<br>
-  Te convido a conhecer melhor os meus projetos.</span>
-<!-- <p>
-  Olá, bem vindo ao meu perfil no GitHub!<br>
-  Te convido a conhecer melhor os meus projetos.
-</p> -->
+<font color='#828282'>Olá, bem vindo ao meu perfil no GitHub! Te convido a conhecer melhor os meus projetos.</font>
+
 - 🌱 Atualmente, estou aprendendo React
 - 📖 Sou estudante de Engenharia de Software
 - 💬 Pergunte-me sobre JavaScript
