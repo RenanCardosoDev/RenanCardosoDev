@@ -2,9 +2,9 @@
 <img align="center" style="margin-bottom:10px" width=100% src="images/banner.png" />
 <img align="center" style="margin-bottom:20px" width=100% src="images/menu.png" />
 
-<span style="font-family: 'Montserrat', sans-serif;font-size: 30px; font-weight: bold;">PORTFOLIO</span>
+# PORTFOLIO
 
-<p style="font-family: 'Montserrat', sans-serif; font-weight: 200;">
+<p>
   Olá, bem vindo ao meu perfil no GitHub!<br>
   Te convido a conhecer melhor os meus projetos.
 </p>
@@ -12,14 +12,14 @@
 
 <img align="center" style="margin-bottom:20px" width=100% src="images/portfolio.png" />
 
-<p style="font-family: 'Montserrat', sans-serif; font-weight: 200;">"Neste momento, estou iniciando uma jornada para me tornar um <strong>desenvolvedor full-stack</strong>, buscando expertise em linguagens como JavaScript e Python.</p>
+<p>"Neste momento, estou iniciando uma jornada para me tornar um <strong>desenvolvedor full-stack</strong>, buscando expertise em linguagens como JavaScript e Python.</p>
 
-<p style="font-family: 'Montserrat', sans-serif; font-weight: 200;">Minha abordagem abrangente engloba um sólido <strong>conhecimento tanto em front-end quanto em back-end</strong>, possibilitando-me criar experiências envolventes para os usuários e sistemas robustos."</p>
+<p>Minha abordagem abrangente engloba um sólido <strong>conhecimento tanto em front-end quanto em back-end</strong>, possibilitando-me criar experiências envolventes para os usuários e sistemas robustos."</p>
 <br>
 
 <div align="center" style="display: flex; align-items: center; margin-bottom: 20px;">
   <img width="30px" src="images/stacks.png" alt="Stacks" style="margin-right: 10px;">
-  <span style="font-size: 20px; font-weight: bold;font-family: 'Montserrat', sans-serif;">Stacks</span>
+  <span style="font-size: 20px;">Stacks</span>
 </div>
 
 <div>
@@ -29,7 +29,7 @@
 
 <div align="center" style="display: flex; align-items: center; margin-bottom: 20px;">
   <img width="30px" src="images/stacks.png" alt="Stacks" style="margin-right: 10px;">
-  <span style="font-size: 20px; font-weight: bold;font-family: 'Montserrat', sans-serif;">Databases</span>
+  <span style="font-size: 20px;">Databases</span>
 </div>
 
 <div>
@@ -39,7 +39,7 @@
 
 <div align="center" style="display: flex; align-items: center; margin-bottom: 20px;">
   <img width="30px" src="images/stacks.png" alt="Stacks" style="margin-right: 10px;">
-  <span style="font-size: 20px; font-weight: bold;font-family: 'Montserrat', sans-serif;">Contact</span>
+  <span style="font-size: 20px;">Contact</span>
 </div>
 
 <div> 
