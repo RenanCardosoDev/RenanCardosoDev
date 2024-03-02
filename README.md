@@ -16,7 +16,7 @@ Olá, bem vindo ao meu perfil no GitHub! Te convido a conhecer melhor os meus pr
 
 &nbsp;
 
-<img align="center" style="margin-bottom:20px" width=100% src="images/portfolio.png" />
+<a href="https://renancardosodev.github.io/portfolio/"><img align="center" style="margin-bottom:20px" width=100% src="images/portfolio.png" /></a>
 
 &nbsp;
 
