@@ -32,11 +32,6 @@ Olá, bem vindo ao meu perfil no GitHub! Te convido a conhecer melhor os meus pr
 </div>
 &nbsp;
 
-## Databases
-<div>
-  <img src="images/data2.png" width="200"/>
-</div>
-&nbsp;
 
 ## Contact
 <div> 
